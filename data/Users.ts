@@ -1,36 +1,37 @@
 export default [{
     id: 'u1',
     name: 'Vadim',
-    imageUri: 'https://scontent.fkiv3-1.fna.fbcdn.net/v/t31.0-1/s200x200/22256588_1932617800312085_5686197942193420542_o.jpg?_nc_cat=110&_nc_sid=7206a8&_nc_eui2=AeF3UwtnAs3QLEJRnLSp4-hQxlokCBJZ6JPGWiQIElnok9HafHyjqv9D4bW9zeNFfNJlg5jLsvbewM7j5OD-OFy-&_nc_ohc=IxycgYSpqQEAX8EcTqI&_nc_ht=scontent.fkiv3-1.fna&tp=7&oh=640a83293bb75378958d22b633302f1b&oe=5F9F4BB7',
+    imageUri: 'https://instagram.fcai19-3.fna.fbcdn.net/v/t51.2885-15/e35/s1080x1080/134182140_745071842881135_7238847116803893533_n.jpg?_nc_ht=instagram.fcai19-3.fna.fbcdn.net&_nc_cat=107&_nc_ohc=8v40KPS1WUUAX_0cyPV&tp=1&oh=2a7bd1e1ce7a16408259e49ae79f67e7&oe=60319194',
     status: "Hello there, how are you"
 }, {
     id: 'u2',
     name: 'Lukas',
-    imageUri: 'https://scontent.fkiv3-1.fna.fbcdn.net/v/t1.0-1/p200x200/107443858_3074598385966770_1929559809312242379_n.jpg?_nc_cat=107&_nc_sid=7206a8&_nc_eui2=AeGly5fZLQUfAKei_EiACEq5Dfw2T_M-BQMN_DZP8z4FA_aLEVK_8e0dKvl_5vxVO0Zn-4OPzQ9pKS0c0XeXd898&_nc_ohc=z1ydC_UL4KsAX_tfrbv&_nc_oc=AQknywM4y1IAQaQZaZkPdtkUmaem060LXSByeTx3pdQXWfxW2_tdzfgRsQIXQK_zV94&_nc_ht=scontent.fkiv3-1.fna&tp=6&oh=69508c88f073f64f432fc1f1ab9299e8&oe=5F9C5FD5',
-}, {
+    imageUri: 'https://instagram.fcai19-3.fna.fbcdn.net/v/t51.2885-15/e35/s1080x1080/133725817_561126771437067_8827486769514116473_n.jpg?_nc_ht=instagram.fcai19-3.fna.fbcdn.net&_nc_cat=103&_nc_ohc=OioJJjz5fGAAX-hwn3O&tp=1&oh=9454f36da7fa8a6f38b6c129a28f6fa2&oe=6030FFEC'
+},
+{
     id: 'u3',
     name: 'Daniil',
-    imageUri: 'https://scontent.fkiv3-1.fna.fbcdn.net/v/t31.0-8/14242257_122280314893965_2111799435851825649_o.jpg?_nc_cat=100&_nc_sid=09cbfe&_nc_eui2=AeH1OfzTrJPQ6gm8y5chASx9XduE6cDoPWBd24TpwOg9YB3iQXtk3WFlfnz5Z8K89WDuLYc3YgooGcmFvcn5fpBL&_nc_ohc=HZKFqosOM-IAX_SsXhT&_nc_oc=AQksp486WazJyCTMR5esRx51kZ8He2qUotQP7EAtzySMJl7i9H2Pv4PpULir6W5Eglk&_nc_ht=scontent.fkiv3-1.fna&oh=b45419e5106747d75fdd548392517a3c&oe=5F9FB4DD',
+    imageUri: 'https://instagram.fcai19-3.fna.fbcdn.net/v/t51.2885-15/e35/s1080x1080/132299068_1051552568658785_5856569948247663842_n.jpg?_nc_ht=instagram.fcai19-3.fna.fbcdn.net&_nc_cat=105&_nc_ohc=w8iXtWuzLewAX9MiiK8&tp=1&oh=abb4b17e9d3762031119469802f3cdcb&oe=60330FA9'
 }, {
     id: 'u4',
     name: 'Alex',
-    imageUri: 'https://scontent.fkiv3-1.fna.fbcdn.net/v/t1.0-9/120265890_2659046234308755_83273782629061168_n.jpg?_nc_cat=109&_nc_sid=09cbfe&_nc_eui2=AeFydVcQHwdfhPgKavejHgTkZj50mLqkTwRmPnSYuqRPBBjekO0sZKdUNlELv62Htps4xAUKslo4tD8g8YyTPQ50&_nc_ohc=YcnPR2BvKUgAX_rSMDJ&_nc_ht=scontent.fkiv3-1.fna&oh=ea3bcd9c21e5538c744e4cb19464713b&oe=5F9E4002',
+    imageUri: 'https://scontent-hbe1-1.cdninstagram.com/v/t51.2885-15/e35/s1080x1080/132509356_2841066896131739_1382923453769150061_n.jpg?_nc_ht=scontent-hbe1-1.cdninstagram.com&_nc_cat=111&_nc_ohc=GptTOCMckGUAX9SIdPg&tp=1&oh=679f54f3bda40530bd79050fc6228982&oe=602FF6FB'
 }, {
     id: 'u5',
     name: 'Vlad',
-    imageUri: 'https://scontent.fkiv3-1.fna.fbcdn.net/v/t1.15752-9/120640479_2760477844167786_6938949653508389840_n.jpg?_nc_cat=108&_nc_sid=ae9488&_nc_eui2=AeGVhYmC95nNnVy1xOf6ArJ2jSXP0lcbAsGNJc_SVxsCwevGmgj2fByDCyiWY8iQK-k-KkqYMmK-pPRahQiFUqAT&_nc_ohc=0d4q0ZI3HTgAX_0LSog&_nc_ht=scontent.fkiv3-1.fna&oh=c9155df4d012070901bce3e8f0e2d877&oe=5F9F9DF5',
+    imageUri: 'https://instagram.fcai19-3.fna.fbcdn.net/v/t51.2885-15/e35/s1080x1080/133705313_1615723945273760_6517863899215924163_n.jpg?_nc_ht=instagram.fcai19-3.fna.fbcdn.net&_nc_cat=108&_nc_ohc=CRRqbk9Q31QAX_TpbsH&tp=1&oh=ef8771ffa238e2ff77eeb3aa58cc6f2f&oe=6031F4B1'
 }, {
     id: 'u6',
     name: 'Elon Musk',
-    imageUri: 'https://scontent.fkiv3-1.fna.fbcdn.net/v/t1.0-9/117929133_107809907710190_7419805747453745280_n.jpg?_nc_cat=103&_nc_sid=09cbfe&_nc_eui2=AeHyr9m8dMUXCyqgYiDxTTMqypeilYrkr1_Kl6KViuSvX2aKglh0TaInpI6Uqbk8nRSKq6iOQuTncbpb6Uik2iH8&_nc_ohc=YusbV4P7yQMAX9ptPAN&_nc_ht=scontent.fkiv3-1.fna&oh=ebee2db09b2a70c9dbef1bdad876c09c&oe=5F9D4112',
+    imageUri: 'https://instagram.fcai19-3.fna.fbcdn.net/v/t51.2885-15/e35/s1080x1080/133463437_3911378052248508_228371624491080395_n.jpg?_nc_ht=instagram.fcai19-3.fna.fbcdn.net&_nc_cat=100&_nc_ohc=Mh2En4ROkCsAX-ap1wA&tp=1&oh=9e54464bc63310ed18dc2e8fabaa41b5&oe=60325870'
 }, {
     id: 'u7',
     name: 'Adrian',
-    imageUri: 'https://scontent.fkiv3-1.fna.fbcdn.net/v/t31.0-8/12185020_10206884996416284_5116038671917824834_o.jpg?_nc_cat=101&_nc_sid=174925&_nc_eui2=AeGr_NhJtwGWWfHbkoBSmifLKzIg47DpEF0rMiDjsOkQXf7yavDd4m-3CLbl5nqAMGcj2nn0Dqg7beNAzuZMzTFK&_nc_ohc=KOCn_AYCJxkAX_ZcLBP&_nc_ht=scontent.fkiv3-1.fna&oh=8cc4e5445ce4633db9d6234f42ccb368&oe=5F9C24D1',
+    imageUri: 'https://instagram.fcai19-3.fna.fbcdn.net/v/t51.2885-15/e35/s1080x1080/133614827_2756486901256554_6433946028699544123_n.jpg?_nc_ht=instagram.fcai19-3.fna.fbcdn.net&_nc_cat=106&_nc_ohc=Xd5gfUpSEWIAX_dfzys&tp=1&oh=76d4b2222bfd1f929a2f27b967402d54&oe=6032327A'
 }, {
     id: 'u8',
     name: 'Borja',
-    imageUri: 'https://scontent.fkiv3-1.fna.fbcdn.net/v/t1.0-9/14639688_10154618563394501_7732414502546927586_n.jpg?_nc_cat=111&_nc_sid=09cbfe&_nc_eui2=AeHoAmU6vBHtxse4pY5lCxy5mE72isysx5eYTvaKzKzHl0wF5HhppdSbpFTEnGVXBMLig16R9B4iHrsuAOk_V_fY&_nc_ohc=Sit1NLT0GMsAX9baI56&_nc_ht=scontent.fkiv3-1.fna&oh=16d88a54bb1629c24e77afed0c49f869&oe=5F9EAC05',
+    imageUri: 'https://instagram.fcai19-3.fna.fbcdn.net/v/t51.2885-15/e35/s1080x1080/134182140_745071842881135_7238847116803893533_n.jpg?_nc_ht=instagram.fcai19-3.fna.fbcdn.net&_nc_cat=107&_nc_ohc=8v40KPS1WUUAX_0cyPV&tp=1&oh=2a7bd1e1ce7a16408259e49ae79f67e7&oe=60319194'
 }, {
     id: 'u9',
     name: 'Mom',
